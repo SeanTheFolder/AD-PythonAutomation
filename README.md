@@ -5,7 +5,7 @@ Welcome to my Active Directory Python Automation Library!
 The Active Directory Python Library is a dynamic library where I will add automation scripts over time to improve the productivity of interacting with AD. There will be a section with a tutorial on how to use each of the scripts in the sections below:
 
 <details>
-  <summary><h2><b>Section 8: Creating Users with randomUserGenerator.py</b></h2></summary>
+  <summary><h2><b>Section 1: Creating Users with randomUserGenerator.py</b></h2></summary>
   <br><br>
   
   In this section, we will be going through the process of creating and running a Python script that takes a text file with a list of usernames to make user creation smoother and more dynamic. This will add a layer of automation and customization to our homelab environment.<br><br>
