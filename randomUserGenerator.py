@@ -1,7 +1,7 @@
 from pyad import *
 
 # Set connection parameters for the AD server
-pyad.set_defaults(ldap_server="10.2.22.1", username="thuynh@streetrack.com", password="Cyberlab123!")
+pyad.set_defaults(ldap_server="10.2.22.1", username="thuynh@streetrack.com", password="Password1")
 
 # Create container object for "_USERS" Organizational Unit (OU)
 ou = pyad.adcontainer.ADContainer.from_dn("OU=_USERS,DC=Streetrack,DC=com")
